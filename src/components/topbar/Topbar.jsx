@@ -6,7 +6,7 @@ export default function Topbar() {
   return (
     <div className="topbarContainer">
       <div className="topbarLeft">
-        <span className="logo">KHALID SOCIAL MEDIA</span>
+        <span className="logo">KAM PICK US </span>
       </div>
       <div className="topbarCenter">
         <div className="searchBar">
